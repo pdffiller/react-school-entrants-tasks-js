@@ -4,7 +4,7 @@
   "description": "Task for Entrants to the PDFfiller ReactJS School",
   "main": "index.js",
   "scripts": {
-    "test": "jest --noStackTrace",
+    "test": "jest --noStackTrace --verbose",
     "start": "babel-node",
     "compile": "babel-cli "
   },
