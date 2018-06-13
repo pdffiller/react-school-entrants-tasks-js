@@ -15,7 +15,7 @@
 
 Условия вступительных задач Вы можете прочесть в соотвествующих `README`-файлах:
  - **Задание 1**. [Спиральная матрица](https://github.com/pdffiller/react-school-entrants-tasks-js/blob/master/task-1/README.md)
- - **Задание 2**. [Сравнить массивы](https://github.com/pdffiller/react-school-entrants-tasks-js/blob/master/task-2/README.md)
+ - **Задание 2**. [Одинаковые элементы](https://github.com/pdffiller/react-school-entrants-tasks-js/blob/master/task-2/README.md)
  - **Задание 3**. [Реализовать `Publisher-Subscriber` шаблон](https://github.com/pdffiller/react-school-entrants-tasks-js/blob/master/task-3/README.md)
 
 
@@ -148,7 +148,7 @@ npm start task-1 // или task-2, task-3 соответственно
 в нужный файл тестов (например, `./test/task-1/index.test.js`), установите точку
 останова и запустите тест, нажав `F5`.
 
-Для отладки непосредственно Вашего кода выберите конфигурацию `vscode-babel-node`, откройте нужный файл (например, `./task-1/index.js`)
+Для отладки непосредственно Вашего кода выберите конфигурацию `vscode-babel-node`, откройте нужный файл (например, `./task-1/index.js`), установите точку останова и запустите программу, нажав `F5`.
 
 
 ## 5. Примите изменения и отправьте их на `github`
@@ -177,3 +177,6 @@ npm test
 
 Если все тесты проходят отправьте ссыку на страницу Вашего репозитория на электронную почту: [js.school@pdffiller.com](mailto:js.school@pdffiller.com?subject=JS%20School%20Entrants%20Tasks)
 
+## 7. Зарегистрируйте проблему
+
+Если в ходе выполнения задачи что-то пошло не так, [зарегистрируйте проблему](https://github.com/pdffiller/react-school-entrants-tasks-js/issues/new) в данном репозитории на сайте github.
