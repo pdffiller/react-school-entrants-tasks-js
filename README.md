@@ -175,7 +175,7 @@ npm install
 npm test
 ```
 
-Если все тесты проходят отправьте ссыку на страницу Вашего репозитория на электронную почту: [js.school@pdffiller.com](mailto:js-school@pdffiller.com?subject=JS%20School%20Entrants%20Tasks)
+Если все тесты проходят отправьте ссыку на страницу Вашего репозитория на электронную почту: [js-school@pdffiller.com](mailto:js-school@pdffiller.com?subject=JS%20School%20Entrants%20Tasks)
 
 ## 7. Зарегистрируйте проблему
 
