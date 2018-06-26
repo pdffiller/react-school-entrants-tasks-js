@@ -1,8 +1,23 @@
 {
+  "n = 1, same items with zero values -> true": [
+    [0],
+    [0],
+    true
+  ],
+  "n = 3, not same items but same sum of items -> false": [
+    [2, 3, 8],
+    [8, 1, 4],
+    false
+  ],
   "n = 4, same items -> true": [
     [11, 22, 48, 54], 
     [11, 48, 54, 22], 
     true
+  ],
+  "n = 4, not same items with duplicates -> false": [
+    [11, 22, 48, 54],
+    [11, 48, 22, 22],
+    false
   ],
   "n = 4, not same items -> false": [
     [11, 22, 48, 54], 
